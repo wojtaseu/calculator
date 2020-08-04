@@ -1,4 +1,7 @@
 Calculator.js: a node.js Demonstration Project
+
+[![Build Status](https://dev.azure.com/wojtaseu/PartsUnlimited/_apis/build/status/wojtaseu.calculator?branchName=master)](https://dev.azure.com/wojtaseu/PartsUnlimited/_build/latest?definitionId=3&branchName=master)
+
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
